@@ -1,0 +1,4 @@
+// Custom kill messages go in this file
+// You can use !target! to insert the name of the player you killed
+// Keep messages to one line only
+!target! got praxxed.
